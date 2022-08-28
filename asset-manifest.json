@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yash-soni/static/css/main.d15ebc7f.css",
+    "main.js": "/yash-soni/static/js/main.37a63d05.js",
+    "static/js/787.2202088d.chunk.js": "/yash-soni/static/js/787.2202088d.chunk.js",
+    "static/media/yash254.jpg": "/yash-soni/static/media/yash254.3c0484eebf20857c5555.jpg",
+    "static/media/Yash_Poster2.JPG": "/yash-soni/static/media/Yash_Poster2.b355f24ea3b02aa91209.JPG",
+    "static/media/YASH.jpg": "/yash-soni/static/media/YASH.ee7d4098e846db462384.jpg",
+    "static/media/bank.jpg": "/yash-soni/static/media/bank.7df47ad455efffc882c9.jpg",
+    "static/media/Portfolio.jpg": "/yash-soni/static/media/Portfolio.bdac3ab4c6bb3881818e.jpg",
+    "static/media/Ecommerce.jpg": "/yash-soni/static/media/Ecommerce.b1bdf54bc695992a0c63.jpg",
+    "static/media/685-6854994_react-logo-no-background-hd-png-download.png": "/yash-soni/static/media/685-6854994_react-logo-no-background-hd-png-download.0d5be2f29fb0707f5690.png",
+    "static/media/OIP.jfif": "/yash-soni/static/media/OIP.2e9993e0969ab04dcef5.jfif",
+    "index.html": "/yash-soni/index.html",
+    "main.d15ebc7f.css.map": "/yash-soni/static/css/main.d15ebc7f.css.map",
+    "main.37a63d05.js.map": "/yash-soni/static/js/main.37a63d05.js.map",
+    "787.2202088d.chunk.js.map": "/yash-soni/static/js/787.2202088d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15ebc7f.css",
+    "static/js/main.37a63d05.js"
+  ]
+}
